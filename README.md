@@ -5,7 +5,7 @@ Coursera causal inference course assignment
 
 **Overview**
 
-This project was an assignment for an online course titled "A crash course on causality: Infering causal effects from observational data". This assignment evaluates the impact of a job training program on participant earnings using the Lalonde Dataset.
+This project was an assignment for an online course titled "A crash course on causality: Infering causal effects from observational data". This assignment evaluates the impact of a job training program on participant earnings using the Lalonde Dataset. The files attached to this repository are a ".R" file containing the code and a powerpoint presentation containing the output.
 
 **Problem**
 
